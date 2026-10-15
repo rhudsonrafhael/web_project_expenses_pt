@@ -1,7 +1,5 @@
 let budgetValue = 0;
 let totalExpensesValue = 0;
-let budgetValue = 0;
-let totalExpensesValue = 0;
 let balanceColor = "green";
 
 const expenseEntries = [
